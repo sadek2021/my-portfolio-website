@@ -652,6 +652,16 @@ section {
   bottom: 15px;
   right: 15px;
 }
+.btn-more{
+  background: #0563bb;
+    border: 0;
+    margin-top: 20px;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+    font-size: small;
+}
 
 /*--------------------------------------------------------------
 # Portfolio Details
